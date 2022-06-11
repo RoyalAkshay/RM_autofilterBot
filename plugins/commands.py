@@ -41,13 +41,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/All_in_ones_01')
+            InlineKeyboardButton(' ᏟᎻᎪΝΝᎬᏞ ', url='https://t.me/+zZ0hgYFL_pxlZDU1'),
+            InlineKeyboardButton(' ⒼⓇⓄⓊⓅ ', url='https://t.me/+T8LhrHaZYVo4YjY1')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
-            ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton(' ᏟϴᎷᎷᎪΝᎠՏ ', callback_data='commands'),
+            InlineKeyboardButton(' ᎪᏴϴႮͲ ', callback_data='about')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_video(
@@ -84,13 +82,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/All_in_ones_01')
+            InlineKeyboardButton(' ᏟᎻᎪΝΝᎬᏞ ', url='https://t.me/+zZ0hgYFL_pxlZDU1'),
+            InlineKeyboardButton(' ⒼⓇⓄⓊⓅ ', url='https://t.me/+T8LhrHaZYVo4YjY1')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
-            ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton(' ᏟϴᎷᎷᎪᎠՏ ', callback_data='commands'),
+            InlineKeyboardButton(' ᎪᏴϴႮͲ ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
