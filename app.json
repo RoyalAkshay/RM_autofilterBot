@@ -1,7 +1,7 @@
 {
-    "name": "ᎡᏴ [𝙻𝚄𝙽𝙰]💖",
+    "name": "𝚁𝙼 [𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊]💖",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/4a678e3049aa44f564e9d.jpg",
+    "logo": "https://te.legra.ph/file/9521d76456c9cca5e9c84.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES",
-    "repository": "https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES",
+    "repository": "https://github.com/RoyalAkshay/LUNA-EXTRA-FEATURES",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
