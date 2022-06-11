@@ -4,14 +4,14 @@ class script(object):
     COMMANDS_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Akshay_Chand>𝙰𝚔𝚜𝚑𝚊𝚢 𝙲𝚑𝚊𝚗𝚍</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
 <b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/+zZ0hgYFL_pxlZDU1>ᎪᏞᏞ ᏆΝ ϴΝᎬՏ⚡</a></b>
-<b>✮ ⒼⓇⓄⓊⓅ: <a href=https://t.me/+T8LhrHaZYVo4YjY1>𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</a></b>"""
+<b>✮ ⒼⓇⓄⓊⓅ: <a href=https://t.me/+T8LhrHaZYVo4YjY1>🔎𝙹𝚘𝚒𝚗 𝙶𝚛𝚘𝚞𝚙</a></b>"""
     FONT_TXT = """<b>𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝙵𝙾𝙽𝚃 𝙼𝙾𝙳𝚄𝙻𝙴</b>
     
     𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝙲𝙰𝙽 𝙶𝙸𝚅𝙴 𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝚃𝙴𝚇𝚃 
@@ -62,7 +62,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/RBLunainline/3 https://t.me/RBLunainline/8</code>"""
+<code>/batch http://t.me/RM_AutoFilterbot/3 http://t.me/RM_AutoFilterbot/8</code>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 •/whois :-give a user full details"""
@@ -166,7 +166,7 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊](https://te.legra.ph/file/9521d76456c9cca5e9c84.jpg) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
+    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊] 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
 <b>›› 𝙸𝙵 𝚈𝙾𝚄𝚁 𝙱𝙰𝙳 𝙸𝙰𝙼 𝚈𝙾𝚄𝚁 𝙳𝙰𝙳</b>
 <b>›› 𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
 <b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈😍</b>
