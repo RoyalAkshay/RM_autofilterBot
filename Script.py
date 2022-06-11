@@ -1,12 +1,6 @@
 class script(object):
     START_TXT = """<b>𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂⚡
-╭╮╱╱╱╭╮╱╭╮╭━╮╱╭╮╭━━━╮
-┃┃╱╱╱┃┃╱┃┃┃┃╰╮┃┃┃╭━╮┃
-┃┃╱╱╱┃┃╱┃┃┃╭╮╰╯┃┃┃╱┃┃
-┃┃╱╭╮┃┃╱┃┃┃┃╰╮┃┃┃╰━╯┃
-┃╰━╯┃┃╰━╯┃┃┃╱┃┃┃┃╭━╮┃
-╰━━━╯╰━━━╯╰╯╱╰━╯╰╯╱╰╯</b>"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂⚡</b>"""
     COMMANDS_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
@@ -16,8 +10,8 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/All_in_ones_01>ᎪᏞᏞ ᏆΝ ϴΝᎬՏ⚡</a></b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA>𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</a></b>"""
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/+zZ0hgYFL_pxlZDU1>ᎪᏞᏞ ᏆΝ ϴΝᎬՏ⚡</a></b>
+<b>✮ ⒼⓇⓄⓊⓅ: <a href=https://t.me/+T8LhrHaZYVo4YjY1>𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</a></b>"""
     FONT_TXT = """<b>𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝙵𝙾𝙽𝚃 𝙼𝙾𝙳𝚄𝙻𝙴</b>
     
     𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝙲𝙰𝙽 𝙶𝙸𝚅𝙴 𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝚃𝙴𝚇𝚃 
@@ -86,7 +80,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 - Filter is the feature were users can set automated replies for a particular keyword and LUNA will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. LUNA should have admin privillage.
+1. Rashmika should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -172,11 +166,11 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝙻𝚄𝙽𝙰](https://telegra.ph/file/db2f78b908af05fa492bf.mp4) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
+    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊](https://te.legra.ph/file/9521d76456c9cca5e9c84.jpg) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
 <b>›› 𝙸𝙵 𝚈𝙾𝚄𝚁 𝙱𝙰𝙳 𝙸𝙰𝙼 𝚈𝙾𝚄𝚁 𝙳𝙰𝙳</b>
-<b>›› 𝙻𝚄𝙽𝙰 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
+<b>›› 𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
 <b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈😍</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Akshay_Chand></a>𝙰𝚔𝚜𝚑𝚊𝚢 𝙲𝚑𝚊𝚗𝚍</b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
@@ -262,27 +256,20 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """
-<b>
-╭━━━╮╭━━━━╮╭━━━╮╭━━━━╮╭━━━╮
-┃╭━╮┃┃╭╮╭╮┃┃╭━╮┃┃╭╮╭╮┃┃╭━╮┃
-┃╰━━╮╰╯┃┃╰╯┃┃╱┃┃╰╯┃┃╰╯┃╰━━╮
-╰━━╮┃╱╱┃┃╱╱┃╰━╯┃╱╱┃┃╱╱╰━━╮┃
-┃╰━╯┃╱╱┃┃╱╱┃╭━╮┃╱╱┃┃╱╱┃╰━╯┃
-╰━━━╯╱╱╰╯╱╱╰╯╱╰╯╱╱╰╯╱╱╰━━━╯
-</b>
+<b>𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊</b>
 <b>★ 🗃️𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂:</b> <code>{}</code>
 <b>★ 👥𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂:</b> <code>{}</code>
 <b>★ 💖𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂:</b> <code>{}</code>
 <b>★ 💿𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱
 <b>★ 📀𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱"""
     DEVELOPER_TXT = """<b>𝙾𝚄𝚁 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-<b>𝙻𝚄𝙽𝙰 𝙰𝙿𝙿 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</b>
-   ★𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽
+<b>𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊 𝙰𝙿𝙿 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</b>
+   ★𝙰𝚔𝚜𝚑𝚊𝚢 𝙲𝚑𝚊𝚗𝚍
 𝙰𝙱𝙾𝚄𝚃:𝙻𝚄𝙽𝙰 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
 <b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙸𝚅𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
    ★𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼
 𝙰𝙱𝙾𝚄𝚃:𝚁𝙴𝚇 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-   ★𝙰𝙰𝙳𝙷𝙸
+   ★𝙺𝚒𝚛𝚝𝚒
 𝙰𝙱𝙾𝚄𝚃:𝙾𝙿𝚄𝚂 𝚃𝙴𝙲𝙷𝚉 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 𝙰𝙽𝙳 𝚈𝙾𝚄𝚃𝚄𝙱𝙴𝚁.
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙶𝚄𝚈𝚂 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈 𝙶𝚄𝚈𝚂"""
