@@ -83,5 +83,5 @@ You can deploy this bot anywhere.
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽](https://t.me/balaSMURUGAN)</b>                                                                                                                                                                                     
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝙰𝚔𝚜𝚑𝚊𝚢 𝙲𝚑𝚊𝚗𝚍](https://t.me/Akshay_Chand)</b>                                                                                                                                                                                     
 <b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝙻𝚄𝙽𝙰 𝙸𝙽𝙻𝙸𝙽𝙴](https://t.me/RBLunainline)</b>
