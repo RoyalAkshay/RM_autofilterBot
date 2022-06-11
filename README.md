@@ -1,7 +1,7 @@
-## 𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+## 𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙻𝚄𝙽𝙰-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽!)
 <p align="center">
-  <img src="https://telegra.ph/file/4a678e3049aa44f564e9d.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
+  <img src="https://te.legra.ph/file/9521d76456c9cca5e9c84.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
 </p>
 
 ## Features
@@ -49,7 +49,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES">
+<a href="https://heroku.com/deploy?template=https://github.com/RoyalAkshay/LUNA-EXTRA-FEATURES">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
