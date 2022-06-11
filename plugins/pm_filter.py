@@ -245,7 +245,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('ͲᎻᏆՏ ᎷϴᏙᏆᎬ ᏆՏ ΝϴͲ ᎽᎬͲ ᎡᎬᏞᎬᎪՏᎬᎠ ϴᎡ ᎪᎠᎠᎬᎠ Ͳϴ ᎠᎪͲᎪᏴᎪՏᎬ 💌')
+            k = await query.message.edit('ͲᎻᏆՏ ᎷϴᏙᏆᎬ ᏆՏ ΝϴͲ ᎽᎬͲ ᎡᎬᏞᎬᎪՏᎬᎠ ϴᎡ ᎪᎠᎠᎬᎠ Ͳϴ ᎠᎪͲᎪᏴᎪՏᎬ Request For Admin 👉  @Owner04bot 💌')
             await asyncio.sleep(10)
             await k.delete()
 
@@ -747,13 +747,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/All_in_ones_01')
+            InlineKeyboardButton(' ⒼⓇⓄⓊⓅ ', url='https://t.me/+T8LhrHaZYVo4YjY1'),
+            InlineKeyboardButton(' ႮᏢᎠᎪͲᎬՏ ', url='https://t.me/+zZ0hgYFL_pxlZDU1')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
-            ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton(' ᏟϴᎷᎷᎪΝᎠՏ ', callback_data='commands'),
+            InlineKeyboardButton(' ᎪᏴϴႮͲ ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -837,7 +835,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽', callback_data='passgen'),
             InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃', callback_data='font')
             ],[
-            InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton('ⒼⓇⓄⓊⓅ', url='https://t.me/+T8LhrHaZYVo4YjY1')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
         ]]
@@ -886,7 +884,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
             InlineKeyboardButton('𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰', callback_data='wiki'),
-            InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
+            InlineKeyboardButton('ⒼⓇⓄⓊⓅ', url='https://t.me/+T8LhrHaZYVo4YjY1')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
         ]]
