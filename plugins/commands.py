@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton(' ᏟᎻᎪΝΝᎬᏞ ', url='https://t.me/+zZ0hgYFL_pxlZDU1'),
             InlineKeyboardButton(' ⒼⓇⓄⓊⓅ ', url='https://t.me/+T8LhrHaZYVo4YjY1')
             ],[      
-            InlineKeyboardButton(' ᏟϴᎷᎷᎪΝᎠՏ ', callback_data='commands'),
+            InlineKeyboardButton(' 𝙷𝚎𝚕𝚙 ', callback_data='commands'),
             InlineKeyboardButton(' ᎪᏴϴႮͲ ', callback_data='about')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
@@ -85,7 +85,7 @@ async def start(client, message):
             InlineKeyboardButton(' ᏟᎻᎪΝΝᎬᏞ ', url='https://t.me/+zZ0hgYFL_pxlZDU1'),
             InlineKeyboardButton(' ⒼⓇⓄⓊⓅ ', url='https://t.me/+T8LhrHaZYVo4YjY1')
             ],[      
-            InlineKeyboardButton(' ᏟϴᎷᎷᎪᎠՏ ', callback_data='commands'),
+            InlineKeyboardButton(' 𝙷𝚎𝚕𝚙 ', callback_data='commands'),
             InlineKeyboardButton(' ᎪᏴϴႮͲ ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
