@@ -8,5 +8,5 @@ else
 fi
 cd /LUNA-EXTRA-FEATURES
 pip3 install -U -r requirements.txt
-echo "Starting ᎡᏴ[𝙻𝚄𝙽𝙰]💖..."
+echo "Starting Rashmika Bot..."
 python3 bot.py
