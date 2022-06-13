@@ -80,8 +80,8 @@ You can deploy this bot anywhere.
 * /ban  - to ban a user.
 * /unban  - to unban a user.
 * /channel - to get list of total connected channels
-* /broadcast - to broadcast a message to all Ajax users
+* /broadcast - to broadcast a message to all Rashmika users
 ```
 
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝙰𝚔𝚜𝚑𝚊𝚢 𝙲𝚑𝚊𝚗𝚍](https://t.me/Akshay_Chand)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝙻𝚄𝙽𝙰 𝙸𝙽𝙻𝙸𝙽𝙴](https://t.me/RBLunainline)</b>
+<b>✮ 𝙱𝙾𝚃 ›› [𝚁𝙼 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝](https://t.me/RM_AutoFilterbot)</b>
