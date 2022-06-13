@@ -1,5 +1,5 @@
 ## 𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝗔𝗞𝗦𝗛𝗔𝗬𝗖𝗛𝗔𝗡𝗗!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝗔𝗞𝗦𝗛𝗔𝗬_𝗖𝗛𝗔𝗡𝗗!)
 <p align="center">
   <img src="https://te.legra.ph/file/9521d76456c9cca5e9c84.jpg" alt="RashmikaLogo">
 </p>
