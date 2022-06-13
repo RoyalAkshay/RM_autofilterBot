@@ -202,7 +202,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Tamil_moviesdaa)</code>
+<code>[Button Text](buttonurl:https://t.me/DoluramBot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -263,16 +263,11 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 <b>★ 💿𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱
 <b>★ 📀𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴:</b> <code>{}</code> 𝙼𝚒𝙱"""
     DEVELOPER_TXT = """<b>𝙾𝚄𝚁 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-<b>𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊 𝙰𝙿𝙿 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</b>
-   ★𝙰𝚔𝚜𝚑𝚊𝚢 𝙲𝚑𝚊𝚗𝚍
-𝙰𝙱𝙾𝚄𝚃:𝙻𝚄𝙽𝙰 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙸𝚅𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-   ★𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼
-𝙰𝙱𝙾𝚄𝚃:𝚁𝙴𝚇 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-   ★𝙺𝚒𝚛𝚝𝚒
-𝙰𝙱𝙾𝚄𝚃:𝙾𝙿𝚄𝚂 𝚃𝙴𝙲𝙷𝚉 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 𝙰𝙽𝙳 𝚈𝙾𝚄𝚃𝚄𝙱𝙴𝚁.
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙶𝚄𝚈𝚂 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈 𝙶𝚄𝚈𝚂"""
+<b>𝚁𝚊𝚜𝚑𝚖𝚒𝚔𝚊 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</b>
+  @Akshay_Chand (Repo developer)
+  @RM_Admin04Bot (Bot admin)
+  ❥Sairaj Gund and Yogesh Gund (repo supporter)
+If you want to make auto filter bot then contract us @Akshay_Chand."""
     LOG_TEXT_G = """ΝᎬᏔᏀᎡϴႮᏢ
     
 <b>★ 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
@@ -312,7 +307,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://youtu.be/CPuvm126KPA</code>"""
+<code>/short http://t.me/RM_Admin04Bot</code>"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
@@ -320,10 +315,10 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙴 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/9RVhig3kH3E)
+• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/3qjz61Wvw7w)
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/mp4 https://youtu.be/CPuvm126KPA</code>
-<code>/video https://youtu.be/CPuvm126KPA</code>"""
+<code>/mp4 https://youtu.be/3qjz61Wvw7w</code>
+<code>/video https://youtu.be/3qjz61Wvw7w</code>"""
 
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
@@ -358,7 +353,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
-<code>/ytthumb https://youtu.be/CPuvm126KPA</code>"""
+<code>/ytthumb https://youtu.be/3qjz61Wvw7w</code>"""
 
     ABOOK_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
 
