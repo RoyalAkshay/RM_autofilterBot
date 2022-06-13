@@ -750,7 +750,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton(' ⒼⓇⓄⓊⓅ ', url='https://t.me/+T8LhrHaZYVo4YjY1'),
             InlineKeyboardButton(' ႮᏢᎠᎪͲᎬՏ ', url='https://t.me/+zZ0hgYFL_pxlZDU1')
             ],[      
-            InlineKeyboardButton(' ᏟϴᎷᎷᎪΝᎠՏ ', callback_data='commands'),
+            InlineKeyboardButton(' 𝙷𝚎𝚕𝚙 ', callback_data='commands'),
             InlineKeyboardButton(' ᎪᏴϴႮͲ ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -835,7 +835,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙿𝙰𝚂𝚂-𝙶𝙴𝙽', callback_data='passgen'),
             InlineKeyboardButton('𝚂𝚃𝚈𝙻𝙸𝚂𝙷-𝚃𝙴𝚇𝚃', callback_data='font')
             ],[
-            InlineKeyboardButton('ⒼⓇⓄⓊⓅ', url='https://t.me/+T8LhrHaZYVo4YjY1')
+            InlineKeyboardButton('𝚄𝚗𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝', url='https://t.me/GoluramBot')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
         ]]
@@ -884,7 +884,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
             InlineKeyboardButton('𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰', callback_data='wiki'),
-            InlineKeyboardButton('ⒼⓇⓄⓊⓅ', url='https://t.me/+T8LhrHaZYVo4YjY1')
+            InlineKeyboardButton('𝚄𝚗𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝', url='https://t.me/GoluramBot')
             ],[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
         ]]
@@ -1301,7 +1301,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode='html'
         )
     elif query.data == "rfrsh":
-        await query.answer("Fetching MongoDb DataBase")
+        await query.answer("Rashmika Fetching MongoDb DataBase")
         buttons = [[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands'),
             InlineKeyboardButton('ᎡᎬҒᎡᎬՏᎻ', callback_data='rfrsh')
